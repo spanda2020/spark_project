@@ -1,0 +1,3 @@
+hadoop fs -put Match.txt hdfs://quickstart.cloudera:8020/user/data/fujitsu/match/
+hadoop fs -put Player.txt hdfs://quickstart.cloudera:8020/user/data/fujitsu/player/
+hadoop fs -put Player_Attribute.txt hdfs://quickstart.cloudera:8020/user/data/fujitsu/player_att/
